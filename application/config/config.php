@@ -526,6 +526,6 @@ $config['proxy_ips'] = '';
 
 
 /* mock server env */
-$config['mk_host'] = "http://mkserver.mock.csp.st.sankuai.com/";
-//$config['mk_host'] = "http://10.22.101.187:8080/";
+$config['mk_host'] = "http://mkserver.mock.com/";
+//$config['mk_host'] = "http://127.0.0.1:8080/";
 
